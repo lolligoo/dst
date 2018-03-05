@@ -1,6 +1,5 @@
 #
 #!/bin/bash
-#
 #####################################################################
 # Author:  STEAM@GoforDream http://steamcommunity.com/id/gofordream/#
 # Lisence: MIT                                                      #
