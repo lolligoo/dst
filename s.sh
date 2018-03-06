@@ -58,14 +58,6 @@ check_auto_update(){
     fi
 }
 
-find_screen() {
-    if [ $(screen -ls|grep -c "$1") -eq 0 ]; then
-        return 1
-    else
-        return 0
-    fi
-}
-
 checklib(){
     list="lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 screen grep lua5.2 diffutils htop"
     for i in $list; do
@@ -165,14 +157,6 @@ startserver(){
         ;;
     esac
     savelog    
-    check_update
-    if [[ ! -f ${DST_conf_basedir}/${DST_conf_dirname}/$cluster/Master/modoverrides.lua ]]; then
-        modadd
-        listallmod
-        addmod
-    fi
-    setupmod
-    cp "$HOME/.dstscript/mods_setup.lua" "$DST_game_path/mods/dedicated_server_mods_setup.lua"    
     cd "${DST_game_path}/bin"
     echo -e "\e[92m请选择要开启的世界:1.地上(主世界) 2.洞穴(附从世界) 3.地上+洞穴(主世界+附从世界)\e[0m"
     read shard 
@@ -202,7 +186,6 @@ startserver(){
     startcheck
     menu
 }
-
 
 if [ $(getconfig "lib_installed" ) == false ]; then
     sudo apt-get update

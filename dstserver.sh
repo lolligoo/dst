@@ -6,22 +6,20 @@
 # Lisence: MIT                                                      #
 # Date:    2018-01-19 22:25:25                                      #
 #####################################################################
-#
-# variables
-#
+# 全局变量
 DST_conf_dirname="DoNotStarveTogether"   
 DST_conf_basedir="$HOME/.klei" 
 DST_bin_cmd="./dontstarve_dedicated_server_nullrenderer"   
 DST_game_path="$HOME/DSTServer"
-DST_script_filepath="$HOME/.dstscript"
+DST_script_filepath="$HOME/dstscript"
 DST_script_conffile="$DST_script_filepath/server.conf"
-
+# 获取常量值
 getconfig() {
     if [[ $(grep "$1" -c $DST_script_conffile) > 0 ]]; then
         grep "^$1" $DST_script_conffile | cut -d"=" -f2
     fi
 }
-
+# 更改常量值
 exchange() {
     if [[ $(grep "$1" -c $DST_script_conffile) > 0 ]]; then
         oldstr="$(grep "^$1" $DST_script_conffile)"
@@ -29,7 +27,7 @@ exchange() {
         sed -i "s/$oldstr/$new/g" $DST_script_conffile
     fi
 }
-
+# screen 是否存在
 find_screen() {
     if [ $(screen -ls|grep -c "$1") -eq 0 ]; then
         return 1
@@ -37,11 +35,11 @@ find_screen() {
         return 0
     fi
 }
-
+# 屏幕输出规则
 info(){ echo -e "\e[92m[$(date "+%T") 信息] \e[0m$1"; }
 warming(){ echo -e "\e[33m[$(date "+%T") 警告] \e[0m$1"; }
 error(){ echo -e "\e[31m[$(date "+%T") 错误] \e[0m$1";}
-
+# 官网访问检测
 check_auto_update(){
     ping -c 2 -i 0.2 -W 3 steamcommunity.com &> /dev/null
     if [ $? -eq 0 ]; then
@@ -60,14 +58,7 @@ check_auto_update(){
         exchange "game_update" "false"
     fi
 }
-
-find_screen() {
-    if [ $(screen -ls|grep -c "$1") -eq 0 ]; then
-        return 1
-    else
-        return 0
-    fi
-}
+# 依赖及所需软件检测
 checklib(){
     list="lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 screen grep lua5.2 diffutils htop"
     for i in $list; do
