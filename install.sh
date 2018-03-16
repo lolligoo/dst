@@ -36,3 +36,6 @@ if [ $? -eq 0 ]; then info "Steamcmd安装完成！" fi
 
 info "下载脚本文件。。。"
 git clone https://github.com/GoforDance/dst.git
+
+echo 'dst="./dst/shell/dst.sh"' >> .bashrc
+source .bashrc
