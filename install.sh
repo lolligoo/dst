@@ -15,6 +15,7 @@ sudo apt-get -y screen grep lua5.2 git
 
 info "创建虚拟交换空间并启用。。。"
 if [ ! -f /swapfile ]; then
+    sudo dd if=/dev/zero of=/swapfile bs=1M count=4096
     sudo mkswap /swapfile &> /dev/null
     sudo chmod 0600 /swapfile
     sudo chmod 0666 /etc/fstab
@@ -29,10 +30,8 @@ if [ ! -f "$HOME/steamcmd/steamcmd.sh" ]; then
     wget http://ozwsnihn1.bkt.clouddn.com/dst/steamcmd/steamcmd_linux.tar.gz
     tar -xvzf steamcmd_linux.tar.gz
     rm steamcmd_linux.tar.gz
-    ./steamcmd/steamcmd.sh+quit
+    ./steamcmd/steamcmd.sh +quit
 fi
-
-if [ $? -eq 0 ]; then info "Steamcmd安装完成！" fi
 
 info "下载脚本文件。。。"
 git clone https://github.com/GoforDance/dst.git
