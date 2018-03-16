@@ -1,4 +1,13 @@
-cluster_name MyDSTServer 房间名称 cluster [NETWORK] read
+lib_installed=true
+server=open
+cluster=default
+cluster_token="pds-g^KU_6yNrwFkC^9WDPAGhDM9eN6y2v8UUjEL3oDLdvIkt2AuDQB2mgaGE="
+master=true
+caves=true
+game_update=true
+mod_update=false
+announce=truec
+luster_name MyDSTServer 房间名称 cluster [NETWORK] read
 cluster_description MyDSTServer 房间简介 cluster [NETWORK] read
 cluster_intention social 游戏风格 cluster [NETWORK] choose social 休闲 cooperative 合作 competitive 竞赛 madness 疯狂
 game_mode endless 游戏模式 cluster [GAMEPLAY] choose endless 无尽 survival 生存 wilderness 荒野
