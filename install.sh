@@ -9,9 +9,10 @@ warming(){ echo -e "\e[33m[$(date "+%T") 警告] \e[0m$1"; }
 error(){ echo -e "\e[31m[$(date "+%T") 错误] \e[0m$1";}
 
 info "安装所需依赖库及软件。。。"
-sudo apt-get update
-sudo apt-get -y install lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386
-sudo apt-get -y screen grep lua5.2 git
+sudo yum update
+sudo yum -y install glibc.i686 libstdc++.i686 libcurl4-gnutls-dev.i686
+sudo yum -y screen grep lua5.2 git
+sudo ln -s /usr/lib/libcurl.so.4 /usr/lib/libcurl-gnutls.so.4
 
 info "创建虚拟交换空间并启用。。。"
 if [ ! -f /swapfile ]; then
