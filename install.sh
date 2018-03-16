@@ -39,4 +39,5 @@ git clone https://github.com/GoforDance/dst.git
 
 echo 'alias dst="./dst/shell/dst.sh"' >> .bashrc
 source .bashrc
+rm install.sh
 info "安装完成，执行 dst 命令即可使用，更多请访问https://blog.wqlin.com"
