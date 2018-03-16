@@ -36,5 +36,6 @@ fi
 info "下载脚本文件。。。"
 git clone https://github.com/GoforDance/dst.git
 
-echo 'dst="./dst/shell/dst.sh"' >> .bashrc
+echo 'alias dst="./dst/shell/dst.sh"' >> .bashrc
 source .bashrc
+info "安装完成，执行 dst 命令即可使用，更多请访问https://blog.wqlin.com"
