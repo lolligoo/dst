@@ -2,7 +2,7 @@ alternatehunt default source 动物脚印 never 无 rare 较少 default 默认 o
 angrybees default animal 杀人蜂 never 无 rare 较少 default 默认 often 较多 always 大量
 antliontribute default monster 蚁狮事件 never 无 rare 较少 default 默认 often 较多 always 大量
 autumn default environment 秋天 noseason 无 veryshortseason 很短 shortseason 短 longseason 长 verylongseason 很长 random 随机 default 默认
-bearger default monster 熊 never 无 rare 较少 default 默认 often 较多 always 大量
+bearger rare monster 熊 never 无 rare 较少 default 默认 often 较多 always 大量
 beefalo default animal 皮费罗牛 never 无 rare 较少 default 默认 often 较多 always 大量
 bees default animal 蜜蜂 never 无 rare 较少 default 默认 often 较多 always 大量
 berrybush default food 浆果丛 never 无 rare 较少 default 默认 often 较多 always 大量
