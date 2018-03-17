@@ -2,8 +2,8 @@
 #!/bin/bash
 #
 # New menu
-source "configure.sh"
-source "myfunc.sh"
+source "$HOME/dst/shell/configure.sh"
+source "$HOME/dst/shell/myfunc.sh"
 while :
 do
     clientip=$(curl -s http://members.3322.org/dyndns/getip)
