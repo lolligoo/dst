@@ -30,6 +30,7 @@ do
     read -p "请输入命令代号：" cmd
     case $cmd in
         *) error 无此命令请重新输入！;;
-        1) ./gameupdate.sh;;
+        1) .$HOME/dst/shell/gameupdate.sh
+           break;;
     esac
 done

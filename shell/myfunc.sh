@@ -1,7 +1,7 @@
 #
 #!/bin/bash
 #
-source "configure.sh"
+source "$HOME/dst/shell/configure.sh"
 # 屏幕输出规则
 info(){ echo -e "\e[92m[$(date "+%T") 信息] \e[0m$1"; }
 warming(){ echo -e "\e[33m[$(date "+%T") 警告] \e[0m$1"; }
