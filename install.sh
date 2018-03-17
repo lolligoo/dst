@@ -6,14 +6,14 @@
 info(){ echo -e "\e[92m[$(date "+%T") 信息] \e[0m$1"; }
 
 info "安装所需依赖库及软件。。。"
-sudo yum update
-sudo yum -y install glibc.i686 libstdc++.i686 libcurl4-gnutls-dev.i686
-sudo yum -y screen grep lua5.2 git
+sudo yum update >/dev/null 2>&1
+sudo yum -y install glibc.i686 libstdc++.i686 libcurl4-gnutls-dev.i686 >/dev/null 2>&1
+sudo yum -y screen grep lua5.2 git >/dev/null 2>&1
 sudo ln -s /usr/lib/libcurl.so.4 /usr/lib/libcurl-gnutls.so.4
 
 info "创建虚拟交换空间并启用。。。"
 if [ ! -f /swapfile ]; then
-    sudo dd if=/dev/zero of=/swapfile bs=1M count=4096
+    sudo dd if=/dev/zero of=/swapfile bs=1M count=4096 >/dev/null 2>&1
     sudo mkswap /swapfile &> /dev/null
     sudo chmod 0600 /swapfile
     sudo chmod 0666 /etc/fstab
@@ -25,16 +25,17 @@ fi
 
 info "安装Steamcmd。。。"
 if [ ! -f "$HOME/steamcmd/steamcmd.sh" ]; then
-    wget http://ozwsnihn1.bkt.clouddn.com/dst/steamcmd/steamcmd_linux.tar.gz
-    tar -xvzf steamcmd_linux.tar.gz
+    wget http://ozwsnihn1.bkt.clouddn.com/dst/steamcmd/steamcmd_linux.tar.gz >/dev/null 2>&1
+    tar -xvzf steamcmd_linux.tar.gz >/dev/null 2>&1
     rm steamcmd_linux.tar.gz
-    ./steamcmd/steamcmd.sh +quit
+    ./steamcmd/steamcmd.sh +quit >/dev/null 2>&1
 fi
 
 info "下载脚本文件。。。"
-git clone https://github.com/GoforDance/dst.git
+git clone https://github.com/GoforDance/dst.git >/dev/null 2>&1
 
 echo 'alias dst="./dst/shell/dst.sh"' >> .bashrc
 source .bashrc
 rm install.sh
+sudo chmod +x dst/shell/*.sh
 info "安装完成，执行 dst 命令即可使用，更多请访问https://blog.wqlin.com"

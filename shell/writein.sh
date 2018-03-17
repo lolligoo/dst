@@ -1,7 +1,7 @@
 #
 #!/bin/bash
 #
-source configure.sh
+source "$HOME/dst/shell/configure.sh"
 getin(){
     index=1
     cat $1 | while read line

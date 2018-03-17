@@ -1,16 +1,16 @@
 #
 #!/bin/bash
 #
-source "configure.sh"
-source "myfunc.sh"
+source "$HOME/dst/shell/configure.sh"
+source "$HOME/dst/shell/myfunc.sh"
 while :
 do
     read -p "你要修改 1.地上 2.洞穴 世界配置？：" wc
     case $wc in
-        1) configure_file="../data/masterleveldata"
+        1) configure_file="$HOME/dst/data/masterleveldata"
            data_file="$HOME/.klei/DoNotStarveTogether/$cluster/Master/leveldataoverride.lua"
            break;;
-        2) configure_file="../data/cavesleveldata"
+        2) configure_file="$HOME/dst/data/cavesleveldata"
            data_file="$HOME/.klei/DoNotStarveTogether/$cluster/Caves/leveldataoverride.lua"
            break;;
         *) error "输入有误请重新输入。";;

@@ -1,8 +1,8 @@
 #
 #!/bin/bash
 #
-source "configure.sh"
-source "myfunc.sh"
+source "$HOME/dst/shell/configure.sh"
+source "$HOME/dst/shell/myfunc.sh"
 
 if find_screen "DST_Master"; then
     screen -S "DST_Master" -p 0 -X stuff "c_announce(\"服务器调整维护即将关闭！预计用时五分钟。\")$(printf \\r)"
