@@ -1,7 +1,7 @@
 serveron=1
-cluster=Cluster_1
-master=0
-caves=0
+cluster=test8
+master=1
+caves=1
 game_update=1
 mod_update=1
 announce=0
