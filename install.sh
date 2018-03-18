@@ -6,10 +6,15 @@
 info(){ echo -e "\e[92m[$(date "+%T") 信息] \e[0m$1"; }
 
 info "安装所需依赖库及软件。。。"
-sudo yum update >/dev/null 2>&1
-sudo yum -y install glibc.i686 libstdc++.i686 libcurl4-gnutls-dev.i686 >/dev/null 2>&1
-sudo yum -y screen grep lua5.2 git >/dev/null 2>&1
-sudo ln -s /usr/lib/libcurl.so.4 /usr/lib/libcurl-gnutls.so.4
+sudo apt-get update >/dev/null 2>&1
+liblist="lib32gcc1 lib32stdc++6 libcurl4-gnutls-dev:i386 screen grep lua5.2 diffutils apache2"
+for i in $liblist; do
+    dpkg -s $i &> /dev/null
+    if [ $? -gt 0 ]; then
+        info "【$i】安装中。。。"
+        sudo apt-get -y install $i &> /dev/null
+    fi
+done
 
 info "创建虚拟交换空间并启用。。。"
 if [ ! -f /swapfile ]; then

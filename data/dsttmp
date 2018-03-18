@@ -1,0 +1,2203 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head> 
+<header id="fixed-header">
+  <div id="header">
+    <div class="container">
+              <a href="/" title="Klei Entertainment" rel="home" id="logo">
+          <img src="https://www.kleientertainment.com/sites/all/themes/klei_theme/logo.png" alt="Klei Entertainment"/>
+        </a>
+        
+              
+        <div id="header-region">
+            <div class="block block-system block-menu block-odd first" data-bid="system-main-menu">
+            
+    <ul class="menu"><li class="first leaf about mid-504"><a href="http://klei.com/klei-independent-game-studio-located-vancouver-canada">About</a></li>
+<li class="leaf active-trail games mid-500"><a href="http://klei.com/games">Games</a></li>
+<li class="leaf careers mid-501"><a href="http://klei.com/careers">Careers</a></li>
+<li class="leaf forums mid-503"><a href="http://forums.kleientertainment.com/" title="" class="active-trail active">Forums</a></li>
+<li class="leaf contact mid-499"><a href="http://klei.com/contact">Contact</a></li>
+<li class="last leaf store mid-502"><a href="http://store.kleientertainment.com" title="">Store</a></li>
+ </ul><div>
+</div> <!-- /block -->        </div>
+          </div>
+  </div>
+</header>
+		<title>Game Updates - Klei Entertainment Forums</title>
+		<!--[if lt IE 9]>
+			<link rel="stylesheet" type="text/css" href="https://forums.kleientertainment.com/uploads/css_built_23/5e61784858ad3c11f00b5706d12afe52_ie8.css.6402702e91cc7b3759f332d1434fc0c9.css">
+		    <script src="//forums.kleientertainment.com/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+	
+		
+	
+
+	
+		
+			
+				<meta name="description" content="">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:title" content="">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:description" content="">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="Klei Entertainment Forums">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+<meta name="theme-color" content="#ffffff">
+<link rel="canonical" href="https://forums.kleientertainment.com/game-updates/dst/" /><link rel="next" href="https://forums.kleientertainment.com/game-updates/dst/?page=2&amp;d=7" /><link rel="last" href="https://forums.kleientertainment.com/game-updates/dst/?page=9&amp;d=7" />
+<link rel="alternate" type="application/rss+xml" title="ONI Bug Tracker -" href="https://forums.kleientertainment.com/rss/1-oni-bug-tracker.xml/" />
+
+		
+
+
+	
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i" rel="stylesheet">
+	
+
+
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/341e4a57816af3ba440d891ca87450ff_framework.css.01cea52337b27cc961ffe27f167281f9.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/05e81b71abe4f22d6eb8d1a929494829_responsive.css.b7b97ca03563992af9285a96a3cdffc3.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/20446cf2d164adcc029377cb04d43d17_flags.css.f588d10442d077ab14e0ccfe400eb9ea.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/90eb5adf50a8c640f633d47fd7eb1778_core.css.34efec15cee443e2e0a45b7cd0e9c333.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.714a1efb46080c7736382d7c4b4fa519.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='//cdn.forums.klei.com/page_objects/gameupdates.css.59a5f521ac6894291542acdcd6ab76e1.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/b321f1ec40ca542bd93e573f541c5385_list.css.1b297f3acef7c99e208ac0d6bbecf3f4.css?v=5d6496d594' media='all'>
+
+	<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/97c0a48072ce601c9764cb6b00a6588a_page.css.090924ba07fbef6b8c0d33cf713d9306.css?v=5d6496d594' media='all'>
+
+
+
+
+<link rel='stylesheet' href='https://forums.kleientertainment.com/uploads/css_built_23/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.39337349af51df5b1bb12c74f5705b0a.css?v=5d6496d594' media='all'>
+
+
+
+		
+		
+
+      		<script src="https://use.fontawesome.com/0dc11fbedd.js"></script>
+		<script   src="https://code.jquery.com/jquery-2.2.4.min.js"   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+			
+<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop ipsResponsive_block' data-controller='core.front.core.mobileNav' data-default="cms_records7">
+	
+		
+			
+			
+				
+					<li id='elMobileBreadcrumb'>
+						<a href='https://forums.kleientertainment.com/game-updates/'>
+							<span>Game Updates</span>
+						</a>
+					</li>
+				
+				
+			
+				
+				
+			
+		
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" class='ipsType_light'  href='https://forums.kleientertainment.com/discover/'><i class='icon-newspaper'></i></a>
+	</li>
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://forums.kleientertainment.com/search/' data-action="mobileSearch"><i class='fa fa-search'></i></a>
+		</li>
+	
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+
+	</head>
+	<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix cCmsDatabase_game-updates' data-controller='core.front.core.app' data-message="" data-pageApp='cms' data-pageLocation='front' data-pageModule='pages' data-pageController='page' itemscope itemtype="http://schema.org/WebSite">
+		<meta itemprop="url" content="https://forums.kleientertainment.com/">
+<div id="elUserNav">
+
+	<ul id="elUserNav2" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block">
+		
+		<li id="elSignInLink">
+			
+				<a href="https://forums.kleientertainment.com/login/" data-ipsmenu-closeonclick="false" data-ipsmenu id="elUserSignIn">
+					Existing user? Sign In  <i class="fa fa-caret-down"></i>
+				</a>
+			
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<div data-role="loginForm">
+		
+			<div class='ipsColumns ipsColumns_noSpacing'>
+				<div class='ipsColumn ipsColumn_wide' id='elUserSignIn_internal'>
+		
+		
+			
+		
+			
+				
+<form accept-charset='utf-8' class="ipsPad ipsForm ipsForm_vertical" method='post' action='https://forums.kleientertainment.com/login/' data-ipsValidation novalidate>
+	<input type="hidden" name="login__standard_submitted" value="1">
+	
+		<input type="hidden" name="csrfKey" value="47e62e6d5a1eba7ae3dae35448f90818">
+	
+	<h4 class="ipsType_sectionHead">Sign In</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="text" required placeholder="Display Name" name='auth' id='auth'>
+					</li>
+				
+			
+				
+					<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+						<input type="password" required placeholder="Password" name='password' id='password'>
+					</li>
+				
+			
+				
+					
+<li class='ipsFieldRow ipsFieldRow_checkbox ipsClearfix ' id="9c7ffa65f11c317804907d1e35f70d9d">
+	
+		
+		
+<input type="hidden" name="remember_me" value="0">
+<span class='ipsCustomInput'>
+	<input
+		type='checkbox'
+		name='remember_me_checkbox'
+		value='1'
+		id="check_9c7ffa65f11c317804907d1e35f70d9d"
+		data-toggle-id="9c7ffa65f11c317804907d1e35f70d9d"
+		checked aria-checked='true'
+		
+		
+		
+		
+		
+		
+	>
+	
+	<span></span>
+</span>
+
+
+		
+		<div class='ipsFieldRow_content'>
+			<label class='ipsFieldRow_label' for='check_9c7ffa65f11c317804907d1e35f70d9d'>Remember me </label>
+			
+
+
+<span class='ipsFieldRow_desc'>
+	Not recommended on shared computers
+</span>
+			
+			
+		</div>
+	
+</li>
+				
+			
+				
+					
+<li class='ipsFieldRow ipsFieldRow_checkbox ipsClearfix ' id="447c4ee74bbd7ef2ff264d7b7231e3e7">
+	
+		
+		
+<input type="hidden" name="signin_anonymous" value="0">
+<span class='ipsCustomInput'>
+	<input
+		type='checkbox'
+		name='signin_anonymous_checkbox'
+		value='1'
+		id="check_447c4ee74bbd7ef2ff264d7b7231e3e7"
+		data-toggle-id="447c4ee74bbd7ef2ff264d7b7231e3e7"
+		aria-checked='false'
+		
+		
+		
+		
+		
+		
+	>
+	
+	<span></span>
+</span>
+
+
+		
+		<div class='ipsFieldRow_content'>
+			<label class='ipsFieldRow_label' for='check_447c4ee74bbd7ef2ff264d7b7231e3e7'>Sign in anonymously </label>
+			
+			
+			
+		</div>
+	
+</li>
+				
+			
+		
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<br>
+			<button type="submit" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+			<br>
+			<p class="ipsType_right ipsType_small">
+				<a href='https://forums.kleientertainment.com/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>Forgot your password?</a>
+			</p>
+		</li>
+	</ul>
+</form>
+			
+		
+			
+		
+		
+				</div>
+				<div class='ipsColumn ipsColumn_wide'>
+					<div class='ipsPad' id='elUserSignIn_external'>
+						<div class='ipsAreaBackground_light ipsPad_half'>
+							<p class='ipsType_reset ipsType_small ipsType_center'><strong>Or sign in with one of these services</strong></p>
+							<br>
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+<a href='https://accounts.google.com/o/oauth2/auth?response_type=code&amp;client_id=415910262255-46uebkgah2jnnm85gvbm0e7s43eplcp3.apps.googleusercontent.com&amp;redirect_uri=https://forums.kleientertainment.com/applications/core/interface/google/auth.php&amp;scope=https://www.googleapis.com/auth/plus.login%20https://www.googleapis.com/auth/userinfo.email%20https://www.googleapis.com/auth/userinfo.profile&amp;access_type=offline&amp;state=front-47e62e6d5a1eba7ae3dae35448f90818-aHR0cHM6Ly9mb3J1bXMua2xlaWVudGVydGFpbm1lbnQuY29tL2xvZ2luLw==' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_google'>
+	<span class='ipsSocial_icon'><i class='fa fa-google-plus'></i></span>
+	<span class='ipsSocial_text'>Sign in with Google</span>
+</a>
+									</div>
+								
+							
+								
+							
+								
+									<div class='ipsPad_half ipsType_center'>
+										
+
+<a href='https://steamcommunity.com/openid/login?openid.ns=http://specs.openid.net/auth/2.0&amp;openid.mode=checkid_setup&amp;openid.return_to=https://forums.kleientertainment.com/applications/core/interface/steam/auth.php&amp;openid.realm=https://forums.kleientertainment.com&amp;openid.identity=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.claimed_id=http://specs.openid.net/auth/2.0/identifier_select&amp;openid.assoc_handle=front' class='ipsButton ipsButton_verySmall ipsButton_fullWidth ipsSocial ipsSocial_steam'>
+	<span class='ipsSocial_icon'><i class='fa fa-steam'></i></span>
+	<span class='ipsSocial_text'>Sign in with Steam</span>
+</a>
+									</div>
+								
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		
+	</div>
+</div>
+		</li>
+		
+			<li>
+				<a href="https://forums.kleientertainment.com/register/"  id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">
+						Sign Up
+				</a>
+			</li>
+		
+	</ul>
+</div>
+<div class="header-divider"></div>
+		<a href='#elContent' class='ipsHide' title='Go to main content on this page' accesskey='m'>Jump to content</a>
+		
+		
+		<main role='main' id='ipsLayout_body' class='ipsLayout_container'>
+
+	<nav class='ipsLayout_container' data-controller='core.front.core.navBar'>
+		<div class='ipsNavBar_primary  ipsClearfix'>
+			
+				<div id='elSearch' class='ipsPos_right' data-controller='core.front.core.quickSearch' itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" data-default="cms_records7">
+					<form accept-charset='utf-8' action='https://forums.kleientertainment.com/search/' method='post'>
+						<meta itemprop="target" content="https://forums.kleientertainment.com/search/?q={q}">
+						<input type="hidden" name="type" value="cms_records7" data-role="searchFilter">
+						<a href='#' id='elSearchFilter' data-ipsMenu data-ipsMenu-selectable='radio' data-ipsMenu-appendTo='#elSearch' class="ipsHide">
+							<span data-role='searchingIn'>
+								Updates
+							</span>
+							<i class='fa fa-caret-down'></i>
+						</a>
+						<ul id='elSearchFilter_menu' class='ipsMenu ipsMenu_selectable ipsMenu_narrow ipsHide'>
+							<li class='ipsMenu_item ' data-ipsMenuValue='all'>
+								<a href='https://forums.kleientertainment.com/index.php?app=core&amp;module=search&amp;controller=search&amp;csrfKey=47e62e6d5a1eba7ae3dae35448f90818' title='All Content'>All Content</a>
+							</li>
+							<li class='ipsMenu_sep'><hr></li>
+							
+							<li data-role='globalSearchMenuOptions'></li>
+							<li class='ipsMenu_item ipsMenu_itemNonSelect'>
+								<a href='https://forums.kleientertainment.com/search/' accesskey='4'><i class='fa fa-cog'></i> Advanced Search</a>
+							</li>
+						</ul>
+						<input type='search' id='elSearchField' placeholder='Search...' name='q' itemprop="query-input">
+						<button type='submit'><i class='fa fa-search'></i></button>
+					</form>
+				</div>
+			
+			<ul data-role="primaryNavBar" class='ipsResponsive_showDesktop ipsResponsive_block'>
+				
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_1' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forums.kleientertainment.com"  data-navItem-id="1" data-navDefault>
+					Browse
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+		<li  id='elNavSecondary_8' data-role="navBarItem" data-navApp="forums" data-navExt="Forums">
+			
+			
+				<a href="https://forums.kleientertainment.com"  data-navItem-id="8" >
+					Forums
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_9' data-role="navBarItem" data-navApp="downloads" data-navExt="Downloads">
+			
+			
+				<a href="https://forums.kleientertainment.com/files/"  data-navItem-id="9" >
+					Downloads
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+			
+		
+		<li class='ipsNavBar_active' data-active id='elNavSecondary_18' data-role="navBarItem" data-navApp="cms" data-navExt="Pages">
+			
+			
+				<a href="https://forums.kleientertainment.com/game-updates/"  data-navItem-id="18" data-navDefault>
+					Game Updates
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_17' data-role="navBarItem" data-navApp="cms" data-navExt="Pages">
+			
+			
+				<a href="https://forums.kleientertainment.com/klei-bug-tracker/"  data-navItem-id="17" >
+					Klei Bug Tracker
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_11' data-role="navBarItem" data-navApp="core" data-navExt="Guidelines">
+			
+			
+				<a href="https://forums.kleientertainment.com/guidelines/"  data-navItem-id="11" >
+					Guidelines
+				</a>
+			
+			
+		</li>
+	
+
+					<li class='ipsHide' id='elNavigationMore_1' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_1' id='elNavigationMore_1_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_1_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_26' data-role="navBarItem" data-navApp="cms" data-navExt="Pages">
+			
+			
+				<a href="https://forums.kleientertainment.com/forge-stats/"  data-navItem-id="26" >
+					Forge Stats
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_2' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://forums.kleientertainment.com/discover/"  data-navItem-id="2" >
+					Activity
+				</a>
+			
+			
+				<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+					
+
+	
+		
+		
+		<li  id='elNavSecondary_3' data-role="navBarItem" data-navApp="core" data-navExt="AllActivity">
+			
+			
+				<a href="https://forums.kleientertainment.com/discover/"  data-navItem-id="3" >
+					All Activity
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_4' data-role="navBarItem" data-navApp="core" data-navExt="YourActivityStreams">
+			
+			
+				<a href="#" id="elNavigation_4" data-ipsMenu data-ipsMenu-appendTo='#elNavSecondary_2' data-ipsMenu-activeClass='ipsNavActive_menu' data-navItem-id="4" >
+					My Activity Streams <i class="fa fa-caret-down"></i>
+				</a>
+				<ul id="elNavigation_4_menu" class="ipsMenu ipsMenu_auto ipsHide">
+					
+
+	
+		
+			<li class='ipsMenu_item' data-streamid='13'>
+				<a href='https://forums.kleientertainment.com/discover/13/' >
+					Status Updates
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li class='ipsMenu_item' data-streamid='45'>
+				<a href='https://forums.kleientertainment.com/discover/45/' >
+					Game Updates
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_5' data-role="navBarItem" data-navApp="core" data-navExt="YourActivityStreamsItem">
+			
+			
+				<a href="https://forums.kleientertainment.com/discover/unread/"  data-navItem-id="5" >
+					Unread Content
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_6' data-role="navBarItem" data-navApp="core" data-navExt="YourActivityStreamsItem">
+			
+			
+				<a href="https://forums.kleientertainment.com/discover/content-started/"  data-navItem-id="6" >
+					Content I Started
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_15' data-role="navBarItem" data-navApp="core" data-navExt="YourActivityStreamsItem">
+			
+			
+				<a href="https://forums.kleientertainment.com/discover/13/"  data-navItem-id="15" >
+					Status Updates
+				</a>
+			
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_7' data-role="navBarItem" data-navApp="core" data-navExt="Search">
+			
+			
+				<a href="https://forums.kleientertainment.com/search/"  data-navItem-id="7" >
+					Search
+				</a>
+			
+			
+		</li>
+	
+
+					<li class='ipsHide' id='elNavigationMore_2' data-role='navMore'>
+						<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_2' id='elNavigationMore_2_dropdown'>More <i class='fa fa-caret-down'></i></a>
+						<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_2_dropdown_menu' data-role='moreDropdown'></ul>
+					</li>
+				</ul>
+			
+		</li>
+	
+
+	
+		
+		
+		<li  id='elNavSecondary_21' data-role="navBarItem" data-navApp="core" data-navExt="CustomItem">
+			
+			
+				<a href="https://status.kleientertainment.com/" target='_blank' data-navItem-id="21" >
+					Service Status
+				</a>
+			
+			
+		</li>
+	
+
+	
+
+	
+
+	
+
+				<li class='ipsHide' id='elNavigationMore' data-role='navMore'>
+					<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore' id='elNavigationMore_dropdown'>More</a>
+					<ul class='ipsNavBar_secondary ipsHide' data-role='secondaryNavBar'>
+						<li class='ipsHide' id='elNavigationMore_more' data-role='navMore'>
+							<a href='#' data-ipsMenu data-ipsMenu-appendTo='#elNavigationMore_more' id='elNavigationMore_more_dropdown'>More <i class='fa fa-caret-down'></i></a>
+							<ul class='ipsHide ipsMenu ipsMenu_auto' id='elNavigationMore_more_dropdown_menu' data-role='moreDropdown'></ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+
+			
+          <div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+
+					<div>
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_1 ipsFaded_withHover'>
+	
+		
+
+
+	<a href='#' id='elRSS' class='ipsPos_right ipsType_large' title='Available RSS feeds' data-ipsTooltip data-ipsMenu><i class='fa fa-rss-square'></i></a>
+	<ul id='elRSS_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+		
+			<li class='ipsMenu_item'><a title="ONI Bug Tracker -" href="https://forums.kleientertainment.com/rss/1-oni-bug-tracker.xml/">ONI Bug Tracker -</a></li>
+		
+	</ul>
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forums.kleientertainment.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://forums.kleientertainment.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://forums.kleientertainment.com/game-updates/'>
+						<span>Game Updates <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Don't Starve Together
+				
+			</li>
+		
+	</ul>
+</nav>
+
+
+
+					</div>
+					
+					<div id='ipsLayout_mainArea'>
+						<a id='elContent'></a>
+						
+						
+						
+						
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='horizontal' data-widgetArea='header'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_horizontal ipsBox ipsWidgetHide ipsHide' data-blockID='app_cms_Blocks_rf0hughhy' data-blockConfig="true" data-blockTitle="Custom Blocks" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page." data-controller='core.front.widgets.block'></li>
+				
+			
+		</ul>
+	</div>
+
+						
+<div id="elCmsPageWrap" data-pageid="33">
+
+
+
+	<div class="ipsType_center ipsSpacer_bottom ipsSpacer_top">
+		
+		<div class="ipsType_richText ipsType_large ipsType_light ipsSpacer_bottom">
+			
+		</div>
+		<div class='ipsResponsive_noFloat ipsResponsive_hidePhone'>
+		<h1 class="ipsType_veryLarge ipsType_reset">Don't Starve Together</h1>
+
+<div data-followApp='cms' data-followArea='categories7' data-followID='39' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://forums.kleientertainment.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://forums.kleientertainment.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=cms&amp;follow_area=categories7&amp;follow_id=39' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://forums.kleientertainment.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=cms&amp;follow_area=categories7&amp;follow_id=39' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>139</a>
+		
+	</div>
+
+</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+<div class='ipsAreaBackground ipsPad_half' data-baseurl='https://forums.kleientertainment.com/game-updates/dst/?page=1&amp;d=7' data-resort='listResort' data-controller='core.global.core.table'>
+	
+	<div class='ipsAreaBackground_reset ipsColumns ipsColumns_collapsePhone' data-controller='pages.front.releaseNotes.main'>
+		<div class='ipsColumn ipsColumn_wide ipsAreaBackground cReleaseColumn' data-role='releases'>
+			
+				<ol class='ipsDataList ipsDataList_zebra ipsClear cCmsListing ' id='elTable_32178bf100f2954d5c9e5c1580d6b21c' data-role="tableRows">
+					
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+
+	
+	<li class="cCmsRecord_row " data-rowID='393'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/260075-r393/' class='cRelease' data-releaseID='393' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				260075
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 03/16/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='392'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/259992-r392/' class='cRelease' data-releaseID='392' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				259992
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 03/15/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='380'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/255151-r380/' class='cRelease' data-releaseID='380' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				255151
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 02/14/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='378'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/254751-r378/' class='cRelease' data-releaseID='378' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				254751
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 02/09/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='376'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/254569-r376/' class='cRelease' data-releaseID='376' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				254569
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 02/09/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='362'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/251036-r362/' class='cRelease' data-releaseID='362' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				251036
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 01/18/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='361'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/249566-r361/' class='cRelease' data-releaseID='361' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				249566
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 01/08/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='360'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/248955-r360/' class='cRelease' data-releaseID='360' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				248955
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 01/03/2018...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='359'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/247691-r359/' class='cRelease' data-releaseID='359' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				247691
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 12/19/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='357'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/247542-r357/' class='cRelease' data-releaseID='357' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				247542
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 12/18/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='345'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/244816-r345/' class='cRelease' data-releaseID='345' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				244816
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 12/04/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='344'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/244388-r344/' class='cRelease' data-releaseID='344' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				244388
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/30/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='340'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/243407-r340/' class='cRelease' data-releaseID='340' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				243407
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/23/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='337'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/242908-r337/' class='cRelease' data-releaseID='337' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				242908
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/21/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='335'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/242441-r335/' class='cRelease' data-releaseID='335' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				242441
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/16/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='333'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/242238-r333/' class='cRelease' data-releaseID='333' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				242238
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/15/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='331'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/242081-r331/' class='cRelease' data-releaseID='331' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				242081
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/14/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='328'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/241842-r328/' class='cRelease' data-releaseID='328' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				241842
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/12/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='327'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/241754-r327/' class='cRelease' data-releaseID='327' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				241754
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/10/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='325'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/241609-r325/' class='cRelease' data-releaseID='325' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				241609
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/09/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='323'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/241351-r323/' class='cRelease' data-releaseID='323' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				241351
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 11/09/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='318'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/239925-r318/' class='cRelease' data-releaseID='318' data-currentRelease>
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				239925
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 10/31/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='316'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/239637-r316/' class='cRelease' data-releaseID='316' data-currentRelease>
+			
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				239637
+				<span class='ipsBadge ipsBadge_positive' data-ipsTooltip title='This is the most current available release'>Release</span>
+              	
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 10/30/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='315'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/239466-r315/' class='cRelease' data-releaseID='315' >
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				239466
+				
+              	<span class='ipsBadge ipsBadge_negative' data-ipsTooltip title='A beta is available for this version'>Test</span>
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 10/27/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+
+	
+	<li class="cCmsRecord_row " data-rowID='314'>
+		<a href='https://forums.kleientertainment.com/game-updates/dst/239344-r314/' class='cRelease' data-releaseID='314' >
+			<span class='ipsType_large ipsType_negative ipsPos_right cUpdate_hotfix' data-ipsTooltip title='Hotfix'><i class='fa fa-warning'></i></span>
+			<h3 class='ipsType_sectionHead ipsType_break'>
+				239344
+				
+              	<span class='ipsBadge ipsBadge_negative' data-ipsTooltip title='A beta is available for this version'>Test</span>
+			</h3>
+			
+			
+				<div class='ipsDataItem_meta'>
+				
+					
+						Released 10/27/2017...
+					
+				
+					
+				
+					
+				
+					
+				
+				</div>
+			
+		</a>
+	</li>
+...
+				</ol>
+			
+			
+				<div data-role="tablePagination">
+					
+
+	
+	<ul class='ipsPagination' id='elPagination_31ab8402709af7901c66c3b066873c35_5aae0dbf06c47' data-pages='9' data-ipsPagination  data-ipsPagination-pages="9" data-ipsPagination-perPage='25'>
+		
+			
+				<li class='ipsPagination_first ipsPagination_inactive'><a href='https://forums.kleientertainment.com/game-updates/dst/?d=7' rel="first" data-page='1' data-ipsTooltip title='First page'><i class='fa fa-angle-double-left'></i></a></li>
+				<li class='ipsPagination_prev ipsPagination_inactive'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=0&amp;d=7' rel="prev" data-page='0' data-ipsTooltip title='Previous page'>Prev</a></li>
+			
+			<li class='ipsPagination_page ipsPagination_active'><a href='https://forums.kleientertainment.com/game-updates/dst/?d=7' data-page='1'>1</a></li>
+			
+				
+					<li class='ipsPagination_page'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=2&amp;d=7' data-page='2'>2</a></li>
+				
+					<li class='ipsPagination_page'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=3&amp;d=7' data-page='3'>3</a></li>
+				
+					<li class='ipsPagination_page'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=4&amp;d=7' data-page='4'>4</a></li>
+				
+					<li class='ipsPagination_page'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=5&amp;d=7' data-page='5'>5</a></li>
+				
+					<li class='ipsPagination_page'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=6&amp;d=7' data-page='6'>6</a></li>
+				
+				<li class='ipsPagination_next'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=2&amp;d=7' rel="next" data-page='2' data-ipsTooltip title='Next page'>Next</a></li>
+				<li class='ipsPagination_last'><a href='https://forums.kleientertainment.com/game-updates/dst/?page=9&amp;d=7' rel="last" data-page='9' data-ipsTooltip title='Last page'><i class='fa fa-angle-double-right'></i></a></li>
+			
+			
+				<li class='ipsPagination_pageJump'>
+					<a href='#' data-ipsMenu data-ipsMenu-closeOnClick='false' data-ipsMenu-appendTo='#elPagination_31ab8402709af7901c66c3b066873c35_5aae0dbf06c47' id='elPagination_31ab8402709af7901c66c3b066873c35_5aae0dbf06c47_jump'>Page 1 of 9 &nbsp;<i class='fa fa-caret-down'></i></a>
+					<div class='ipsMenu ipsMenu_narrow ipsPad ipsHide' id='elPagination_31ab8402709af7901c66c3b066873c35_5aae0dbf06c47_jump_menu'>
+						<form accept-charset='utf-8' method='post' action='https://forums.kleientertainment.com/game-updates/dst/?d=7' data-role="pageJump">
+							<ul class='ipsForm ipsForm_horizontal'>
+								<li class='ipsFieldRow'>
+									<input type='number' min='1' max='9' placeholder='Page number' class='ipsField_fullWidth' name='page'>
+								</li>
+								<li class='ipsFieldRow ipsFieldRow_fullWidth'>
+									<input type='submit' class='ipsButton_fullWidth ipsButton ipsButton_verySmall ipsButton_primary' value='Go'>
+								</li>
+							</ul>
+						</form>
+					</div>
+				</li>
+			
+		
+	</ul>
+
+				</div>
+			
+		</div>
+		<div class='ipsColumn ipsColumn_fluid'>
+			<div data-role='releaseInfo' class='ipsPad_double'></div>
+		</div>
+	</div>
+</div>
+
+	<ul class="ipsToolList ipsToolList_horizontal ipsClearfix ipsSpacer_both ipsResponsive_showPhone ipsResponsive_block">
+		
+		
+	</ul>
+
+
+	<div class="ipsResponsive_showPhone ipsResponsive_block ipsSpacer ipsSpacer_both ipsClearfix">
+		
+
+<div data-followApp='cms' data-followArea='categories7' data-followID='39' data-controller='core.front.core.followButton'>
+	
+		<span class='ipsType_light ipsType_blendLinks ipsResponsive_hidePhone ipsResponsive_inline'><i class='fa fa-info-circle'></i> <a href='https://forums.kleientertainment.com/login/' title='Go to the sign in page'>Sign in to follow this</a>&nbsp;&nbsp;</span>
+	
+	
+
+	<div class="ipsFollow ipsPos_middle ipsButton ipsButton_link ipsButton_verySmall " data-role="followButton">
+		
+			<a href='https://forums.kleientertainment.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=cms&amp;follow_area=categories7&amp;follow_id=39' title='See who follows this' class='ipsType_blendLinks ipsType_noUnderline' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>Followers</a>
+			<a class='ipsCommentCount' href='https://forums.kleientertainment.com/index.php?app=core&amp;module=system&amp;controller=notifications&amp;do=followers&amp;follow_app=cms&amp;follow_area=categories7&amp;follow_id=39' title='See who follows this' data-ipsTooltip data-ipsDialog data-ipsDialog-size='narrow' data-ipsDialog-title='Who follows this'>139</a>
+		
+	</div>
+
+</div>
+	</div>
+
+
+</div>
+						
+
+					</div>
+					
+
+					
+<nav class='ipsBreadcrumb ipsBreadcrumb_bottom ipsFaded_withHover'>
+	
+		
+
+
+	<a href='#' id='elRSS' class='ipsPos_right ipsType_large' title='Available RSS feeds' data-ipsTooltip data-ipsMenu><i class='fa fa-rss-square'></i></a>
+	<ul id='elRSS_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+		
+			<li class='ipsMenu_item'><a title="ONI Bug Tracker -" href="https://forums.kleientertainment.com/rss/1-oni-bug-tracker.xml/">ONI Bug Tracker -</a></li>
+		
+	</ul>
+
+	
+
+	<ul class='ipsList_inline ipsPos_right'>
+		
+		<li >
+			<a data-action="defaultStream" class='ipsType_light '  href='https://forums.kleientertainment.com/discover/'><i class='icon-newspaper'></i> <span>All Activity</span></a>
+		</li>
+		
+	</ul>
+
+	<ul data-role="breadcrumbList">
+		<li>
+			<a title="Home" href='https://forums.kleientertainment.com/'>
+				<span><i class='fa fa-home'></i> Home <i class='fa fa-angle-right'></i></span>
+			</a>
+		</li>
+		
+		
+			<li>
+				
+					<a href='https://forums.kleientertainment.com/game-updates/'>
+						<span>Game Updates <i class='fa fa-angle-right'></i></span>
+					</a>
+				
+			</li>
+		
+			<li>
+				
+					Don't Starve Together
+				
+			</li>
+		
+	</ul>
+</nav>
+				</div>
+			</div>
+			
+		</main>
+		<footer id='ipsLayout_footer' class='ipsClearfix'>
+			<div class='ipsLayout_container'>
+				
+				
+
+
+
+
+<ul class='ipsList_inline ipsType_center ipsSpacer_top' id="elFooterLinks">
+	
+	
+	
+	
+		<li>
+			<a href='#elNavTheme_menu' id='elNavTheme' data-ipsMenu data-ipsMenu-above>Theme <i class='fa fa-caret-down'></i></a>
+			<ul id='elNavTheme_menu' class='ipsMenu ipsMenu_selectable ipsHide'>
+			
+				
+					<li class='ipsMenu_item ipsMenu_itemChecked'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='23' class='ipsButton ipsButton_link ipsButton_link_secondary'>**New Klei** (Default)</button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='24' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Don't Starve** </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='25' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Griftlands** </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='26' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Hot Lava** </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='27' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Mark of the Ninja** </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='28' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Oxygen Not Included** </button>
+						</form>
+					</li>
+				
+			
+				
+					<li class='ipsMenu_item'>
+						<form action="//forums.kleientertainment.com/theme/?csrfKey=47e62e6d5a1eba7ae3dae35448f90818" method="post">
+						<button type='submit' name='id' value='31' class='ipsButton ipsButton_link ipsButton_link_secondary'>**Invisible, Inc.** </button>
+						</form>
+					</li>
+				
+			
+			</ul>
+		</li>
+	
+	
+		<li><a href='https://forums.kleientertainment.com/privacy/'>Privacy Policy</a></li>
+	
+	
+		<li><a rel="nofollow" href='https://forums.kleientertainment.com/contact/' >Contact Us</a></li>
+	
+</ul>
+
+
+<p id='elCopyright'>
+	<span id='elCopyright_userLine'></span>
+	<a rel='nofollow' title='Invision Community' href='https://www.invisioncommunity.com/'>Powered by Invision Community</a>
+</p>
+			</div>
+		</footer>
+		
+<div id="elMobileDrawer" class="ipsDrawer ipsHide">
+	<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+	<div class="ipsDrawer_menu">
+		<div class="ipsDrawer_content">
+			
+
+			<div class="ipsSpacer_bottom ipsPad">
+				<ul class="ipsToolList ipsToolList_vertical">
+					
+						<li>
+							<a href="https://forums.kleientertainment.com/login/" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Existing user? Sign In</a>
+						</li>
+						
+							<li>
+								<a href="https://forums.kleientertainment.com/register/"  id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Sign Up</a>
+							</li>
+						
+					
+
+					
+				</ul>
+</div>
+
+			<ul class="ipsDrawer_list">
+
+				
+
+				
+				
+				
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Browse</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://forums.kleientertainment.com">Browse</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com' >
+					Forums
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/files/' >
+					Downloads
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/game-updates/' >
+					Game Updates
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/klei-bug-tracker/' >
+					Klei Bug Tracker
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/guidelines/' >
+					Guidelines
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://forums.kleientertainment.com/forge-stats/" >Forge Stats</a></li>
+						
+					
+				
+					
+						
+						
+							<li class="ipsDrawer_itemParent">
+								<h4 class="ipsDrawer_title"><a href="#">Activity</a></h4>
+								<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>
+									
+										<li><a href="https://forums.kleientertainment.com/discover/">Activity</a></li>
+									
+									
+									
+										
+
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/' >
+					All Activity
+				</a>
+			</li>
+		
+	
+
+	
+		
+			
+			<li class='ipsDrawer_itemParent'>
+				<h4 class='ipsDrawer_title'><a href='#'>My Activity Streams</a></h4>
+				<ul class='ipsDrawer_list'>
+					<li data-action="back"><a href='#'>Back</a></li>
+					
+					
+
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/13/' >
+					Status Updates
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/45/' >
+					Game Updates
+				</a>
+			</li>
+		
+	
+
+				</ul>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/unread/' >
+					Unread Content
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/content-started/' >
+					Content I Started
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/discover/13/' >
+					Status Updates
+				</a>
+			</li>
+		
+	
+
+	
+		
+			<li>
+				<a href='https://forums.kleientertainment.com/search/' >
+					Search
+				</a>
+			</li>
+		
+	
+
+										
+								</ul>
+</li>
+						
+					
+				
+					
+						
+						
+							<li><a href="https://status.kleientertainment.com/" target="_blank" >Service Status</a></li>
+						
+					
+				
+					
+				
+					
+				
+					
+				
+<!--Klei Links-->					<li class="ipsDrawer_itemParent">
+						<h4 class="ipsDrawer_title"><a href="#">Klei Links</a></h4>
+						<ul class="ipsDrawer_list">
+<li data-action="back"><a href="#">Back</a></li>                          
+<li><a href="/klei-independent-game-studio-located-vancouver-canada">About</a></li>
+<li><a href="/games">Games</a></li>
+<li><a href="/careers">Careers</a></li>
+<li><a href="http://forums.kleientertainment.com/" title="" class="active-trail active">Forums</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="http://store.kleientertainment.com" title="">Store</a></li>
+</ul>
+</li>	<!-- klei links-->
+          </ul>
+</div>
+	</div>
+</div>
+		
+
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//forums.kleientertainment.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//forums.kleientertainment.com/",
+			jsURL: "//forums.kleientertainment.com/applications/core/interface/js/js.php",
+			csrfKey: "47e62e6d5a1eba7ae3dae35448f90818",
+			antiCache: "5d6496d594",
+			disableNotificationSounds: false,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			analyticsProvider: "custom",
+			viewProfiles: true,
+			
+		};
+	</script>
+
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_global/root_library.js.566422a06c837b52584e3af82de843f1.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_global/root_js_lang_1.js.56ef5524b6c3f86fa768cd66dd2cd79b.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_global/root_framework.js.7e3cc60aeceb0d70836bbd74bc15ef65.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_core/global_global_core.js.742e0fedbb8727e98af2825054c6b0a4.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_global/root_front.js.866c5baac293d709efc550043eed6a61.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='//cdn.forums.klei.com/page_objects/gameupdates.js.caf05bde4a7d65e602ac0228c58fbada.js' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_cms/front_app.js.39a5dffccd7fad268aa8702012bcb99f.js?v=5d6496d594' data-ips></script>
+
+
+<script type='text/javascript' src='https://forums.kleientertainment.com/uploads/javascript_global/root_map.js.2541c9dbb84ef681d6101a3fb888ffca.js?v=5d6496d594' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'remote_image_proxy', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+		
+	</script>
+
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "WebSite",
+    "name": "Klei Entertainment Forums",
+    "url": "https://forums.kleientertainment.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://forums.kleientertainment.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "name": "Klei Entertainment Forums",
+    "url": "https://forums.kleientertainment.com/",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "",
+        "addressLocality": null,
+        "addressRegion": null,
+        "postalCode": null,
+        "addressCountry": null
+    }
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@id": "https://forums.kleientertainment.com/game-updates/",
+                "name": "Game Updates"
+            }
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://schema.org",
+    "@type": "ContactPage",
+    "url": "https://forums.kleientertainment.com/contact/"
+}	
+</script>
+
+
+		
+			
+		
+		
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+	</body>
+</html>
