@@ -15,6 +15,7 @@ dst_chat_file="./dst/data/serverchatdata"
 dst_conf_file="./dst/data/serverini"
 dst_tmp_file="./dst/data/dsttmp"
 dst_token_file="./dst/data/culstertoken"
+dst_cluster_file="./dst/data/clusterdata"
 # 有用的函数
 info(){ echo -e "\e[92m[$(date "+%T") 信息] \e[0m$1"; }
 warming(){ echo -e "\e[33m[$(date "+%T") 警告] \e[0m$1"; }
@@ -182,6 +183,71 @@ newcluster(){
     setworld
     setmod
     info "新存档创建完成！"
+}
+settoken(){
+    while :
+    do
+        echo -e "\e[92m=============【存档槽：$cluster】===============\e[0m"
+        index=1
+        cat $dst_cluster_file | while read line
+        do
+            ss=($line)
+            if [ "${ss[4]}" != "readonly" ]; then
+                if [ "${ss[4]}" == "choose" ]; then
+                    for ((i=5;i<${#ss[*]};i++))
+                    do
+                        if [ "${ss[$i]}" == "${ss[1]}" ]; then
+                            value=${ss[$i+1]}
+                        fi
+                    done
+                else
+                    value=${ss[1]}
+                fi
+                echo -e "\e[33m    [$index] ${ss[2]}：$value\e[0m"
+            fi
+            index=$[$index + 1]
+        done
+        echo -e "\e[92m===============================================\e[0m"
+        read -p "请选择你要更改的选项(修改完毕输入数字 0 确认修改并退出)：" cmd
+        case $cmd in
+            0) info "更改已保存！"
+               break;;
+            *) changelist=($(sed -n "${cmd}p" $dst_cluster_file))
+               echo ${changelist[4]}
+               if [ "${changelist[4]}" = "choose" ]; then
+                   echo -e "\e[92m请选择${changelist[2]}： \e[0m\c"
+                   index=1
+                   for ((i=5;i<${#changelist[*]};i=$i+2))
+                   do
+                       echo -e "\e[92m$index.${changelist[$[$i + 1]]}    \e[0m\c"
+                       index=$[$index + 1]
+                   done
+                   echo -e "\e[92m: \e[0m\c"
+                   read changelistindex
+                   listnum=$[$changelistindex - 1]*2
+                   changelist[1]=${changelist[$[$listnum + 5]]}
+               else
+                   echo -e "\e[92m请输入${changelist[2]}(请不要输入空格)：\e[0m\c"
+                   read changestr
+                   changelist[1]=$changestr
+               fi
+               changestr="${changelist[@]}"
+               sed -i "${cmd}c $changestr" $dst_cluster_file;;
+        esac
+    done
+    type=([GAMEPLAY] [NETWORK] [MISC] [SHARD])
+    for ((i=0;i<${#type[*]};i++))
+    do
+        echo "${type[i]}" >> $dst_base_dir/cluster/cluster.ini
+        cat $dst_cluster_file | while read lc
+        do
+            lcstr=($lc)
+            if [ "${lcstr[3]}" == "${type[i]}" ]; then
+                echo "${lcstr[0]}=${lcstr[1]}" >> $dst_base_dir/cluster/cluster.ini
+            fi
+        done
+        echo "" >> $dst_base_dir/$cluster/cluster.ini
+    done
 }
 settoken(){
     info "默认服务器令牌：$(cat $dst_token_file)"
