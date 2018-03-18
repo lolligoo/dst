@@ -160,7 +160,8 @@ closeserver()
             screen -S "DST_Caves" -p 0 -X stuff "c_shutdown()$(printf \\r)"
         fi
         sleep 10
-        if [[ $(screen -ls | grep -c "DST_AUTOUPDATE") > 0 ]]; then
+        if [[ $(scree
+n -ls | grep -c "DST_AUTOUPDATE") > 0 ]]; then
             pid=$(screen -ls | grep "DST_AUTOUPDATE" | cut -d"." -f1 | tr -cd "[0-9]")
             kill $pid
         fi
