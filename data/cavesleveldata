@@ -34,6 +34,7 @@ sapling default source 树枝 never 无 rare 较少 default 默认 often 较多 
 slurper default animal 啜食者 never 无 rare 较少 default 默认 often 较多 always 大量
 slurtles default animal 蜗牛 never 无 rare 较少 default 默认 often 较多 always 大量
 start_location caves other 其他
+task_set cave_default other 其他
 tentacles never monster 触手怪 never 无 rare 较少 default 默认 often 较多 always 大量
 touchstone default environment 猪头祭坛 never 无 rare 较少 default 默认 often 较多 always 大量
 trees default source 树木 never 无 rare 较少 default 默认 often 较多 always 大量
