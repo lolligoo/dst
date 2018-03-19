@@ -42,5 +42,6 @@ git clone https://github.com/GoforDance/dst.git >/dev/null 2>&1
 echo 'alias dst="./dst/shell/dst.sh"' >> .bashrc
 source .bashrc
 rm install.sh
+sudo chown -R $USER:$USER steamcmd
 sudo chmod +x dst/shell/*.sh
 info "安装完成，执行 dst 命令即可使用，更多请访问https://blog.wqlin.com"
