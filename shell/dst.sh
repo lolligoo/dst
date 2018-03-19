@@ -123,11 +123,7 @@ start_server(){
             exit
         fi
     fi
-<<<<<<< HEAD
     cp $HOME/dst/data/mods_setup.lua $dst_game_dir/mods/dedicated_server_mods_setup.lua
-=======
-    cp $HOME/dst/data/mods_setup.lua > $dst_game_dir/mods/dedicated_server_mods_setup.lua
->>>>>>> a270c38bd232346f218b02e14d8cbf1bbbf1a57f
     if [ -d $dst_base_dir/$cluster ]; then
         if [[ $(getconfig "master") == 1 ]]; then
             info "启动地上服务器。。。"
